@@ -1,0 +1,6 @@
+<div style="width:100%"><a href="https://www.dunod.com/sciences-techniques/programmation-python-par-pratique-exercices-et-problemes-corriges"><img src="https://python.guillod.org/livre/banner.png"/></a></div>
+
+# Énoncés des exercices
+Les Énoncés des exercices du livre [*Programmation Python par la pratique*](https://www.dunod.com/sciences-techniques/programmation-python-par-pratique-exercices-et-problemes-corriges) peuvent être téléchargés ci-dessus au format [Jupyter Notebbok](https://jupyter.org/) ou exécuté directement en ligne sur [GESIS](https://notebooks.gesis.org/binder/v2/gh/guillod/livre-python/HEAD?urlpath=lab). Les corrigés sont disponibles dans le livre en version papier (ISBN [9782100815142](https://www.dunod.com/sciences-techniques/programmation-python-par-pratique-exercices-et-problemes-corriges)) ou numérique (ISBN [9782100819089](https://www.dunod.com/sciences-techniques/programmation-python-par-pratique-exercices-et-problemes-corriges)) publié chez Dunod. Cette page reflète les exercices tels que publiés dans cet ouvrage et diffère quelque peu des exercices présentés à la page [python.guillod.org](https://python.guillod.org/).</p>
+
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/guillod/livre-python/HEAD?urlpath=lab)
